@@ -65,7 +65,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="lato" destination="8bC-Xf-vdC" id="GIj-Yl-eRd"/>
+                        <outlet property="lato" destination="eSZ-ab-Aqy" id="yqh-IR-Csc"/>
                         <outlet property="ris" destination="ZZ8-Gv-QuJ" id="doU-h8-RKy"/>
                         <outlet property="risLabel" destination="joK-PL-bwj" id="CF0-dc-XVM"/>
                     </connections>
