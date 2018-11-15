@@ -21,5 +21,10 @@ class ViewController: UIViewController {
         return intero!
     }
 
+    func calcoloArea(intero : Int) -> Int
+    {
+        var area = intero^2
+        return area
+    }
 }
 
