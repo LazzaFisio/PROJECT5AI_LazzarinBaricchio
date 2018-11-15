@@ -34,8 +34,8 @@ class ViewController: UIViewController {
 
     func calcoloArea(intero : Int) -> Int
     {
-        let area = intero^2
-        return area
+        let area = pow(Float(intero), 2)
+        return Int(area)
     }
 }
 
